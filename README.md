@@ -1,6 +1,6 @@
 # Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA
 Dashboard Profissional 
-Utilizando planilhas automatizadas e a inteligência artificial, este guia prático ensina estratégias eficazes para planejar, monitorar e otimizar suas finanças. Com uma abordagem acessível e inovadora, o projeto promete empoderar usuários a tomar decisões mais conscientes e atingir seus objetivos financeiros com eficiência.
+- Utilizando planilhas automatizadas e a inteligência artificial, este guia prático ensina estratégias eficazes para planejar, monitorar e otimizar suas finanças. Com uma abordagem acessível e inovadora, o projeto promete empoderar usuários a tomar decisões mais conscientes e atingir seus objetivos financeiros com eficiência.
 
 # 📊 Dashboard Interativo com Microsoft Excel  
 
